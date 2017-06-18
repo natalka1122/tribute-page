@@ -1,0 +1,14 @@
+body {
+  margin: 20px;
+}
+
+.grey {
+  background-color: WhiteSmoke;
+}
+hr {
+    height: 2px;
+    background-color:#555;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 75%;
+}
